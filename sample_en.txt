@@ -1,0 +1,3 @@
+Hello, world.
+The weather is nice today, let's go for a walk in the park.
+Cats like to sleep.
